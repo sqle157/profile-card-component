@@ -13,7 +13,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Github](https://github.com/sqle157/profile-card-component)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Demo](https://sqle157.github.io/profile-card-component/)
 
 ### Built with
 
